@@ -51,6 +51,11 @@ namespace AdoptionMVC.Controllers
             Animal Animal;
             return View();
         }
+        public IActionResult Confirmation(string msg)
+        {
+            ViewData["msg"] = msg;
+            return View();
+        }
 
     }
 }
