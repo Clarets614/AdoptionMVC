@@ -43,7 +43,7 @@ namespace AdoptionMVC.Controllers
             Animal Animal = dbContext.Animals.FirstOrDefault(a => a.Id == id);
             dbContext.Animals.Remove(Animal);
             dbContext.SaveChanges();
-            return RedirectToAction("Index");
+            return RedirectToAction("Confirmation", new { msg = $"{Animal.Name} has been adopted" });
         }
 
         public IActionResult AddAnimal(List<Animal> result)

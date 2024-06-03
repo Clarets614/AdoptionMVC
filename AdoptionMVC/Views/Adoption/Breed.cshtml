@@ -6,8 +6,9 @@
     @{
         foreach(Animal a in Model)
         {
+            <p>------</p>
             <h3>@a.Name</h3>
-            <p><a asp-controller="Adoption" asp-action="RemoveAnimal">Adopt Me</a></p>
+            <p><a asp-controller="Adoption" asp-action="RemoveAnimal" asp-route-id="@a.Id">Adopt Me</a></p>
             <img height="500px" src="@a.Img" />
 
             <p>@a.Description</p>

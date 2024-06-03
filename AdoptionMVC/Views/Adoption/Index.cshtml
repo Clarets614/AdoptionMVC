@@ -1,7 +1,7 @@
 ﻿@model List<Animal>
 
 <p>Select a Breed Here.</p>
-<form asp-controller="Adoption" asp-action="Result" asp-route-id="Result" method="post">
+<form asp-controller="Adoption" asp-action="Result" method="post">
     <select id="Breed" name="Breed">
     @{
         List<string> uniqueCategories = Model.Select(p => p.Breed).Distinct().ToList();
