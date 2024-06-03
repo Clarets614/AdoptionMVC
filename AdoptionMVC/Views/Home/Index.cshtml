@@ -1,0 +1,11 @@
+﻿@model List<Animal>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to the Pet Adoption Center</h1>
+    <p>To select an Animal by Breed, follow the Adoption link in the menu!</p>
+<p> See all Animals <a asp-controller="Adoption" asp-action="Breed">Here</a></p>
+<p>Add Animal to Adoption List <a asp-controller="Home" asp-action="Form">Here</a></p>
+</div>

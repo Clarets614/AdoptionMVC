@@ -1,0 +1,16 @@
+﻿@model List<Animal>
+
+<p>Select a Breed Here.</p>
+<form asp-controller="Adoption" asp-action="Result" asp-route-id="Result" method="post">
+    <select id="Breed" name="Breed">
+    @{
+        List<string> uniqueCategories = Model.Select(p => p.Breed).Distinct().ToList();
+        foreach (string breed in uniqueCategories)
+        {
+            <option>@breed</option>
+        }
+        }
+    </select>
+
+    <input type="submit" />
+</form>
