@@ -7,7 +7,7 @@
             <h1>@a.Name</h1>
             <img height="500px" src="@a.Img" />
             <p>Description: @a.Description</p>
-             <a asp-controller="Adoption" asp-action="RemoveAnimal">Adopt Me</a>
+             <a asp-controller="Adoption" asp-action="RemoveAnimal" asp-route-itemid="@a.Id">Adopt Me</a>
         }
 
     }

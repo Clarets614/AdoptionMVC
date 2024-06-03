@@ -40,7 +40,7 @@ namespace AdoptionMVC.Controllers
 
         public IActionResult RemoveAnimal(int id)
         {
-            Animal Animal = dbContext.Animals.Where(a=> a.Id == id).FirstOrDefault();
+            Animal Animal = dbContext.Animals.FirstOrDefault(a => a.Id == id);
             dbContext.Animals.Remove(Animal);
             dbContext.SaveChanges();
             return RedirectToAction("Index");
@@ -48,6 +48,7 @@ namespace AdoptionMVC.Controllers
 
         public IActionResult AddAnimal(List<Animal> result)
         {
+            Animal Animal;
             return View();
         }
 

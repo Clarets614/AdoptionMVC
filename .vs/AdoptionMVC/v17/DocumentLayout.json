@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|c:\\users\\cstock\\source\\repos\\adoptionmvc\\adoptionmvc\\views\\home\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|solutionrelative:adoptionmvc\\views\\home\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|c:\\users\\cstock\\source\\repos\\adoptionmvc\\adoptionmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|solutionrelative:adoptionmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +11,12 @@
       "RelativeMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|solutionrelative:adoptionmvc\\controllers\\adoptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|c:\\users\\cstock\\source\\repos\\adoptionmvc\\adoptionmvc\\views\\home\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|solutionrelative:adoptionmvc\\views\\home\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|c:\\users\\cstock\\source\\repos\\adoptionmvc\\adoptionmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|solutionrelative:adoptionmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|c:\\users\\cstock\\source\\repos\\adoptionmvc\\adoptionmvc\\views\\adoption\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|solutionrelative:adoptionmvc\\views\\adoption\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|c:\\users\\cstock\\source\\repos\\adoptionmvc\\adoptionmvc\\views\\adoption\\breed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|solutionrelative:adoptionmvc\\views\\adoption\\breed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|c:\\users\\cstock\\source\\repos\\adoptionmvc\\adoptionmvc\\views\\adoption\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,6 +25,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|c:\\users\\cstock\\source\\repos\\adoptionmvc\\adoptionmvc\\views\\adoption\\adopt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|solutionrelative:adoptionmvc\\views\\adoption\\adopt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|c:\\users\\cstock\\source\\repos\\adoptionmvc\\adoptionmvc\\views\\adoption\\breed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|solutionrelative:adoptionmvc\\views\\adoption\\breed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|c:\\users\\cstock\\source\\repos\\adoptionmvc\\adoptionmvc\\views\\adoption\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|solutionrelative:adoptionmvc\\views\\adoption\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFA387E2-88B8-47F7-85F1-69A9955C9AFA}|AdoptionMVC\\AdoptionMVC.csproj|c:\\users\\cstock\\source\\repos\\adoptionmvc\\adoptionmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,102 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AdoptionMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AdoptionMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:15:09.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form.cshtml",
-              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Home\\Form.cshtml",
-              "RelativeDocumentMoniker": "AdoptionMVC\\Views\\Home\\Form.cshtml",
-              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Home\\Form.cshtml",
-              "RelativeToolTip": "AdoptionMVC\\Views\\Home\\Form.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T13:10:56.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Breed.cshtml",
-              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Adoption\\Breed.cshtml",
-              "RelativeDocumentMoniker": "AdoptionMVC\\Views\\Adoption\\Breed.cshtml",
-              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Adoption\\Breed.cshtml",
-              "RelativeToolTip": "AdoptionMVC\\Views\\Adoption\\Breed.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "Adopt.cshtml",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Adoption\\Adopt.cshtml",
+              "RelativeDocumentMoniker": "AdoptionMVC\\Views\\Adoption\\Adopt.cshtml",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Adoption\\Adopt.cshtml",
+              "RelativeToolTip": "AdoptionMVC\\Views\\Adoption\\Adopt.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T20:15:34.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AdoptionMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AdoptionMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T20:16:13.778Z",
+              "WhenOpened": "2024-06-03T12:38:40.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Result.cshtml",
-              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Adoption\\Result.cshtml",
-              "RelativeDocumentMoniker": "AdoptionMVC\\Views\\Adoption\\Result.cshtml",
-              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Adoption\\Result.cshtml",
-              "RelativeToolTip": "AdoptionMVC\\Views\\Adoption\\Result.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T20:37:02.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AdoptionMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AdoptionMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T11:44:39.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdoptionController.cs",
-              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Controllers\\AdoptionController.cs",
-              "RelativeDocumentMoniker": "AdoptionMVC\\Controllers\\AdoptionController.cs",
-              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Controllers\\AdoptionController.cs",
-              "RelativeToolTip": "AdoptionMVC\\Controllers\\AdoptionController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAawDQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T20:14:54.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Adoption\\Index.cshtml",
               "RelativeDocumentMoniker": "AdoptionMVC\\Views\\Adoption\\Index.cshtml",
@@ -154,16 +76,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Adopt.cshtml",
-              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Adoption\\Adopt.cshtml",
-              "RelativeDocumentMoniker": "AdoptionMVC\\Views\\Adoption\\Adopt.cshtml",
-              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Adoption\\Adopt.cshtml",
-              "RelativeToolTip": "AdoptionMVC\\Views\\Adoption\\Adopt.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T12:38:40.138Z",
+              "DocumentIndex": 1,
+              "Title": "AdoptionController.cs",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Controllers\\AdoptionController.cs",
+              "RelativeDocumentMoniker": "AdoptionMVC\\Controllers\\AdoptionController.cs",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Controllers\\AdoptionController.cs",
+              "RelativeToolTip": "AdoptionMVC\\Controllers\\AdoptionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:14:54.513Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Home\\Form.cshtml",
+              "RelativeDocumentMoniker": "AdoptionMVC\\Views\\Home\\Form.cshtml",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Home\\Form.cshtml",
+              "RelativeToolTip": "AdoptionMVC\\Views\\Home\\Form.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T13:10:56.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AdoptionMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AdoptionMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAzwCQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:15:09.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdoptionMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AdoptionMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T11:44:39.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Breed.cshtml",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Adoption\\Breed.cshtml",
+              "RelativeDocumentMoniker": "AdoptionMVC\\Views\\Adoption\\Breed.cshtml",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Adoption\\Breed.cshtml",
+              "RelativeToolTip": "AdoptionMVC\\Views\\Adoption\\Breed.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T20:15:34.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Adoption\\Result.cshtml",
+              "RelativeDocumentMoniker": "AdoptionMVC\\Views\\Adoption\\Result.cshtml",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Adoption\\Result.cshtml",
+              "RelativeToolTip": "AdoptionMVC\\Views\\Adoption\\Result.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T20:37:02.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AdoptionMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\AdoptionMVC\\AdoptionMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AdoptionMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T20:16:13.778Z"
             }
           ]
         }

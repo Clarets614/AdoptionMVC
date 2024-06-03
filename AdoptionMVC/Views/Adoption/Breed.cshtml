@@ -1,13 +1,17 @@
 ﻿@model List<Animal>
 
     <div>
+        <h1>All Available Animals</h1>
     <ul>
     @{
         foreach(Animal a in Model)
         {
-            <h1>@a.Name</h1>
+            <h3>@a.Name</h3>
+            <p><a asp-controller="Adoption" asp-action="RemoveAnimal">Adopt Me</a></p>
             <img height="500px" src="@a.Img" />
-            <p>Description: @a.Description</p>
+
+            <p>@a.Description</p>
+
 
         }
 
